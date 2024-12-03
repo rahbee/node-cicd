@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "test": "jest tests"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
     "fastify": "3.2"
   },
   "devDependencies": {
-    "jest": "27.4.0"
+    "jest": "27.4.0",
+    "node-fetch": "2.6"
   }
 }
