@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "jest": "27.4.0",
-    "node-fetch": "2.6"
+    "node-fetch": "2.6",
+    "nyc": "15.1.0"
   }
 }
