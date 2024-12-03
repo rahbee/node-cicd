@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "5.1.0"
+    "fastify": "3.2"
   },
   "devDependencies": {
-    "jest": "29.7.0"
+    "jest": "27.4.0"
   }
 }
